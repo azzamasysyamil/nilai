@@ -10,4 +10,10 @@ switch ($module) {
     case 'siswa' : 
         include('siswa/index.php');
         break;    
+    case 'guru' : 
+        include('guru/index.php');
+        break;    
+    case 'mapel' : 
+        include('mapel/index.php');
+        break;    
 }

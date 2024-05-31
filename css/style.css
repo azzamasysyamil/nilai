@@ -1,0 +1,46 @@
+body {    
+    background-color: #f5fcfd !important;
+}
+
+body > div.container.mt-2 > div > div > div > div.card-header.row {
+    width:100%;
+    margin: 0 auto;
+}
+
+.navbar {
+    background-color:#ffc200 !important;
+}
+
+.card {
+    background-color: #013566 !important;
+    color: #ffffff;
+}
+
+body > div.fixed-bottom > div {
+    border-radius: 0px !important;
+}
+
+.card-body {
+    overflow: auto;
+}
+.card > .card-header {
+    color:#ffc200;
+}
+
+.card > .card-header > .col-4 > a.btn {
+    background-color: #ffc200 !important;
+    border: 1px solid #ffc200 !important;
+}
+
+.card > .card-header > .col-4 > a.btn > b {
+color: #013566 !important;
+}
+
+.judul {
+    color: #ffc200;
+    font-weight: 600;
+    font-size: 30px;
+    text-align: center;
+}
+
+/*#ffc200
